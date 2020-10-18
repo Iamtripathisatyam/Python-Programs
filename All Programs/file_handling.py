@@ -1,0 +1,28 @@
+# f=open("satyam.txt")
+# f=open("satyam.txt","r")
+# f=open("satyam.txt","rt")
+# f=open("satyam.txt","rb")
+# content=f.read(3)
+# content=f.read()
+# content=f.read(350)
+# print(content)
+# for line in content:
+#     print(line)
+# for line in f:
+#     print(line)
+# for line in f:
+#     print(line,end="")
+# print(f.readline())
+# print(f.readline())
+# print(f.readline())
+# print(f.readlines())
+# f.close()
+# f=open("mahoba.txt","w")
+# f=open("mahoba.txt","a")
+# a=f.write("He is Currently Live in kanpur")
+# print(a)    #It will tell you the no. of characters in the file.txt...
+# print("मेरी दीदी की कल शादी है")
+# f.close()
+# f=open("mahoba.txt","r+")
+# print(f.read())
+# f.write("\nSatyam Tripathi really belongs to mahoba uttar pradesh \n!!")
