@@ -7,4 +7,3 @@
 ### These all Programs are really amazing.
 ### They will help you a lot in learning something new in Python and also these Programs help you in clearing your Python concepts.
 
-![Cool](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
