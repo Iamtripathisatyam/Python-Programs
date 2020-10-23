@@ -1,6 +1,5 @@
 ![Ok](https://forthebadge.com/images/badges/for-you.svg)
 ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![Good](https://forthebadge.com/images/badges/built-with-swag.svg)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)
 # Python Programs:
 ### These all are my Python Programs which I made in `4 Months`.
