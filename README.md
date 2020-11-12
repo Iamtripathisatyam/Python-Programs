@@ -8,8 +8,8 @@ ________________________________
 ### They will help you a lot in learning something new in Python and also these Programs help you in clearing your Python concepts.
 _______________________________
 <br/>
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+![](https://badges.pufler.dev/visits/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow)
+![](https://badges.pufler.dev/updated/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow)
+![](https://badges.pufler.dev/created/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow)
 
 
