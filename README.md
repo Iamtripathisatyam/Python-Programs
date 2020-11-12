@@ -1,6 +1,8 @@
-![Ok](https://forthebadge.com/images/badges/for-you.svg)
-![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![How](https://forthebadge.com/images/badges/built-by-developers.svg)
+<p align="center">
+<img src="https://forthebadge.com/images/badges/for-you.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+  </p>
 ________________________________
 # Python Programs:
 ### These all are my Python Programs which I made in `4 Months`.
@@ -8,7 +10,7 @@ ________________________________
 ### They will help you a lot in learning something new in Python and also these Programs help you in clearing your Python concepts.
 _______________________________
 <br/>
-<p align="center"
+<p align="center">
 <img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
