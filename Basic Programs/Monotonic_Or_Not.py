@@ -22,8 +22,8 @@ else:
     
     ######################################  2nd Method ##############################
     
-    def monotonic(a):
-    return (all([a[i]<=a[i+1] for i in range(len(a)-1)])) or (all([a[i]>=a[i+1] for i in range(len(a)-1)]))
+def monotonic(a):
+return (all([a[i]<=a[i+1] for i in range(len(a)-1)])) or (all([a[i]>=a[i+1] for i in range(len(a)-1)]))
 a=[]
 n=int(input("Enter the Number of Elements: "))
 for i in range(0,n):
