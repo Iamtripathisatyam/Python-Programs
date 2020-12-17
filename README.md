@@ -11,7 +11,7 @@ ________________________________
 <h3 align="center">
   
 - These all are my Python Programs which I made in `4 Months`.
-- These all Programs are really amazing.
+- These Programs are really amazing.
 - They will help you a lot in learning something new in Python and also these Programs help you in clearing your Python concepts.
 </h3>
 
