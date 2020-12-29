@@ -12,7 +12,7 @@ ________________________________
   
 - These all are my Python Programs which I made in `4 Months`.
 - These Programs are really amazing.
-- They will help you a lot in learning something new in `PYTHON` and also these Programs help you in clearing your `PYTHON` concepts.
+- These Projects will help you a lot in learning something new in `PYTHON` and also these Programs help you in clearing your `PYTHON` concepts.
 </h3>
 
 _______________________________
