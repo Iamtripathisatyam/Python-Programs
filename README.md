@@ -8,7 +8,8 @@ ________________________________
 
 
 ### <h1 align="center">**`PYTHON PROGRAMS`**</h1>
-
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/All%20Programs">**`Intermediate Level Programs`**</a></h1>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/Basic%20Programs">**`Basic Programs`**</a></h1>
 <h3 align="center">
   
 - These all are my Python Programs which I made in `4 Months`.
