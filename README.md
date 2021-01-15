@@ -8,7 +8,7 @@ ________________________________
 
 
 ### <h1 align="center">**`PYTHON PROGRAMS`**</h1>
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/All%20Programs">**`Intermediate Level Programs`**</a></h1>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/Intermediate%20Level%20Programs">**`Intermediate Level Programs`**</a></h1>
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/Basic%20Level%20Programs">**`Basic Level Programs`**</a></h1>
 <h3 align="center">
   
