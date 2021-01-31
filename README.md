@@ -3,6 +3,9 @@
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p><br/>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Python-Programs}/count.svg" alt=Iamtripathisatyam />
+</p>
 
 ________________________________
 
@@ -21,7 +24,6 @@ _______________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Python-Programs?style=for-the-badge&logo=github&logoColor=yellow" />
 </p>
