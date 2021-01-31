@@ -15,7 +15,7 @@ ________________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Python-Programs/tree/main/Basic%20Level%20Programs">**`Basic Level Programs`**</a></h1>
 <h3 align="center">
   
-- These all are my Python Programs which I made in `4 Months`.
+- These all are my Python Programs which I made in `4 Months.`
 - These Programs are really amazing.
 - These Projects will help you a lot in learning something new in `PYTHON` and also these Programs help you in clearing your `PYTHON` concepts.
 </h3>
